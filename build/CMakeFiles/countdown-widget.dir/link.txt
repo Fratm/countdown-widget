@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG -Wl,--dependency-file=CMakeFiles/countdown-widget.dir/link.d "CMakeFiles/countdown-widget.dir/main.cpp.o" -o countdown-widget  /usr/lib64/libQt6Widgets.so.6.11.2 /usr/lib64/libLayerShellQtInterface.so.6.7.5 /usr/lib64/libQt6Gui.so.6.11.2 /usr/lib64/libGLX.so /usr/lib64/libOpenGL.so /usr/lib64/libQt6Core.so.6.11.2

@@ -1,0 +1,2 @@
+/usr/local/bin/countdown-widget
+/usr/local/share/applications/countdown-widget.desktop

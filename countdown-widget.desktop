@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Countdown Widget
+Comment=Days-until countdown on the desktop
+Exec=countdown-widget
+Icon=chronometer
+Categories=Utility;
+Terminal=false
