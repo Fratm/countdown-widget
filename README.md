@@ -4,6 +4,10 @@ A tiny C++/Qt 6 desktop widget for KDE Plasma (Wayland) that shows
 
     ## Days until <Countdown Name>
 
+## Written with Claude.ai
+I did not write this code at all, I did review it, but this was 100% written by
+claude ai.  Therefore the code is public domain.
+
 It sits on the desktop layer of your primary screen (above the wallpaper,
 below your windows), has a single × button to close it, follows your active
 Plasma colour scheme and font, and remembers your countdown between runs.
